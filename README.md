@@ -1,4 +1,4 @@
-# Analyzing-CIA-Factbook-Data-Using-SQL
+# Analyzing CIA Factbook Data Using SQL
 
 ## Aim of the project
 In this project, we will use SQL in Jupyter Notebook to analyze data from CIA Factbook database. The goal is to identify the leading and lagging territories of the world based on demographic indicators like population, mortality, and fertility.
